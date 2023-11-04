@@ -38,4 +38,4 @@ The chat history is maintained and displayed in a vertical layout.
 
 
 
-![image](https://github.com/amanraut29/Chat_space/assets/123371627/19e475bc-e9ac-46d6-851a-b0b55c4b09ea)
+
